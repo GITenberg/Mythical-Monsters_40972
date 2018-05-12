@@ -1,0 +1,27 @@
+_repo: Mythical-Monsters_40972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gould, Charles
+    birthdate: 1834
+    deathdate: 1893
+    gutenberg_agent_id: '40917'
+    url: http://www.gutenberg.org/2009/agents/40917
+description: ''
+gutenberg_issued: '2012-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40972'
+  lccn: tmp96032982
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals, Mythical'
+- !lcc 'GR'
+title: Mythical Monsters
+url: http://www.gutenberg.org/ebooks/40972
